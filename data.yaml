@@ -1,0 +1,45 @@
+members:
+  - name: "MisterMV"
+
+    channels:
+      - type: "twitch"
+        value: "28575692"
+
+      - type: "youtube"
+        value: "UCus9EeXDcLaCJhVXYd6PJcg"
+
+    data:
+      - languages:
+          - "English"
+          - "French"
+
+        links:
+          - title: "Twitch"
+            url: "https://twitch.tv/mistermv"
+
+          - title: "Twitter"
+            url: "https://twitter.com/mistermv"
+
+          - title: "YouTube"
+            url: "https://youtube.com/@monsieurmv"
+
+  - name: "ZeratoR"
+
+    channels:
+      - type: "twitch"
+        value: "41719107"
+
+    data:
+      - languages:
+          - "English"
+          - "French"
+
+        links:
+          - title: "Twitch"
+            url: "https://twitch.tv/zerator"
+
+          - title: "Twitter"
+            url: "https://twitter.com/zerator"
+
+          - title: "YouTube"
+            url: "https://youtube.com/@ZeratoR"
